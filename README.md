@@ -1,7 +1,9 @@
 # Godel Technologies Europe – Project Summary
 
-Since January 13, 2025, I've been working as a JS Mastery Intern at **Godel Technologies Europe**. Due to company policy, the code for these projects is private and hosted on an internal GitLab instance.  
-This repository serves as an overview of the technologies, tools, practices, and Agile processes I'm using.
+From January 13 to May 12, 2025, I worked as a JS Mastery Intern at **Godel Technologies Europe**. Following the successful completion of the internship, I was awarded a contract as a Junior Software Engineer on May 13, 2025.
+
+Due to company policy, the code for these projects is private and hosted on an internal GitLab instance.  
+This repository overviews the technologies, tools, practices, and Agile processes I used.
 
 ## 🔧 Tech Stack
 
